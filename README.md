@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I am an Astrophile🌌 + Cynophile🐶 + Dendrophile🌳
 
 
-[![Spotify](https://novatorem-snowy-sigma.vercel.app/)](https://open.spotify.com/user/https://novatorem-snowy-sigma)
+[![Spotify](https://novatorem-sahilsarin390.vercel.app/api/spotify)](https://open.spotify.com/user/novatorem-sahilsarin390)
 
 ---
 
