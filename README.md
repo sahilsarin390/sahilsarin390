@@ -66,7 +66,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilsarin390&hide=prs&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asahilsarin390&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sahilsarin390&repo=convoychat" />
 </a>
 
 ---
