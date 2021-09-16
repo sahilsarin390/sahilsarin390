@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I am an Astrophile🌌 + Cynophile🐶 + Dendrophile🌳
 
 
-[![Spotify](https://novatorem-sahilsarin390.vercel.app/)](https://open.spotify.com/user/21beqotaulsyu7s4xweeoq4fq)
+[![Spotify](https://novatorem-snowy-sigma.vercel.app/)](https://open.spotify.com/user/21beqotaulsyu7s4xweeoq4fq)
 
 ### Connect with me:
 
@@ -62,7 +62,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Sahil's GitHub Stats" src="https://git-readme-stats-sahilsarin390.vercel.app/api?username=sahilsarin390&show_icons=true&hide_border=true" />
+  <img align="left" alt="Sahil's GitHub Stats" src="https://git-readme-stats-black.vercel.app/api?username=sahilsarin390&show_icons=true&hide_border=true" />
 
 </details>
 
