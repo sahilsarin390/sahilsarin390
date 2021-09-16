@@ -64,6 +64,9 @@
 
   <img align="left" alt="Sahil's GitHub Stats" src="https://git-readme-stats-black.vercel.app/api?username=sahilsarin390&show_icons=true&hide_border=true" />
 
+  ![Sahil's GitHub stats](https://git-readme-stats-sahilsarin390.vercel.app/api?username=sahilsarin390)
+
+
 </details>
 
 [website]: https://sahilsareen.me
