@@ -14,6 +14,8 @@
 
 [![Spotify](https://novatorem-snowy-sigma.vercel.app/)](https://open.spotify.com/user/https://novatorem-snowy-sigma)
 
+---
+
 ### Connect with me:
 
 <div align = "center">
@@ -33,6 +35,8 @@
 </div>
 
 <br/>
+
+---
 
 ### Languages and Tools:
 
@@ -93,7 +97,11 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsarin390&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsarin390&theme=radical&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 [gmail]: mailto:sahilsarin390@smail.com
 [discord]: https://discordapp.com/users/262894005652684801
