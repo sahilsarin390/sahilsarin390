@@ -59,13 +59,9 @@
 
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  [![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilsarin390)](https://github.com/anuraghazra/github-readme-stats)
+[![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilsarin390&hide=prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
-</details>
 
 [website]: https://sahilsareen.me
 [twitter]: https://twitter.com/sahilsarin390
