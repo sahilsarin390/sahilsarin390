@@ -62,6 +62,10 @@
 
 [![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilsarin390&hide=prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsarin390&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [website]: https://sahilsareen.me
 [twitter]: https://twitter.com/sahilsarin390
