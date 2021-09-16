@@ -11,8 +11,17 @@
 - 🥅 2021 Goals: Learn to manage time and do what i love and build my career.
 - ⚡ Fun fact: I am an Astrophile🌌 + Cynophile🐶 + Dendrophile🌳
 
+<br/>
 
-[![Spotify](https://novatorem-sahilsarin390.vercel.app/api/spotify)](https://open.spotify.com/user/novatorem-sahilsarin390)
+---
+
+<div align = "center">
+
+  [![image](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)][spotify]
+
+  [![Spotify](https://novatorem-sahilsarin390.vercel.app/api/spotify)](https://open.spotify.com/user/novatorem-sahilsarin390)
+
+</div>
 
 ---
 
@@ -114,3 +123,4 @@
 [quora]: https://www.quora.com/profile/Sahil-Sareen-25
 [hackerrank]: https://www.hackerrank.com/ss5087
 [kaggle]: https://www.kaggle.com/atomicxcyborg
+[spotify]: https://open.spotify.com/user/21beqotaulsyu7s4xweeoq4fq
