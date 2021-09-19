@@ -2,8 +2,9 @@
 
 [![Website](https://img.shields.io/website?label=sahilsareen.me&style=for-the-badge&up_message=Running%20Wild%21&url=https%3A%2F%2Fsahilsareen.me)](https://sahilsareen.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sahilsarin390?color=%231DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/sahilsarin390)
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
-
+<div align="right">
+  [![Visits Badge](https://badges.pufler.dev/visits/sahilsarin390/README.md)](https://badges.pufler.dev)
+</div>
 
 ## I'm a Student, Developer and a Tech-savvy Gamer!!
 
