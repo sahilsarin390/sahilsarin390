@@ -1,15 +1,13 @@
-### Hi there, I'm ATOMICxCyborg - aka [Sahil Sareen][website] 👋
+### Hi there, I'm ATOMICxCyborg - aka [Sahil Sareen] 👋
 
-[![Website](https://img.shields.io/website?label=sahilsareen.me&style=for-the-badge&up_message=Running%20Wild%21&url=https%3A%2F%2Fsahilsareen.me)](https://sahilsareen.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sahilsarin390?color=%231DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/sahilsarin390)
 [![Visits Badge](https://badges.pufler.dev/visits/sahilsarin390/sahilsarin390)](https://badges.pufler.dev)
 
 ## I'm a Student, Developer and a Tech-savvy Gamer!!
 
-- 🔭 I just launched my first website: [sahilsareen.me][website]!
 - 🌱 I’m currently figuring out what is life 🤣
 - 👯 I’m looking to collaborate with other Developers for loads of projects!
-- 🥅 2021 Goals: Learn to manage time and do what i love and build my career.
+- 🥅 2023 Goals: Learn to manage time and do what i love and build my career.
 - ⚡ Fun fact: I am an Astrophile🌌 + Cynophile🐶 + Dendrophile🌳
 
 <br/>
